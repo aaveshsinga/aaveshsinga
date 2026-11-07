@@ -8,7 +8,7 @@
 Building digital systems today.
 Exploring the technologies that will define tomorrow.
 
-[ SOFTWARE ENGINEERING ] · [ ROBOTICS ] · [ AEROSPACE ] · [ ELECTRIC MOBILITY ]
+[ SOFTWARE ENGINEERING ] · [ FRONTEND ARCHITECTURE ] · [ ROBOTICS ] · [ AI SYSTEMS ]
 
 ---
 
@@ -19,10 +19,10 @@ Exploring the technologies that will define tomorrow.
 Technology is not defined by what exists today,
 but by what can be engineered next.
 
-Loop is a technology initiative focused on software engineering,
+I am an independent software engineer focused on frontend architecture,
 digital infrastructure, and the exploration of emerging technologies.
 
-Our long-term interests span intelligent systems, robotics,
+My long-term interests span intelligent systems, robotics,
 aerospace, electric mobility, and artificial intelligence.
 
 The immediate mission is practical:
@@ -41,12 +41,12 @@ Developing responsive digital experiences with an emphasis on
 performance, maintainability, accessibility, and structured implementation.
 
 **Technologies**
-`HTML5` `CSS3` `Bootstrap` `JavaScript` `Git` `GitHub`
+`HTML5` `CSS3` `Bootstrap 5` `JavaScript (ES6+)` `Git` `GitHub`
 
 **Selected Work**
-- Premium Hospitality Website
-- Kerala Public School Website
-- Responsive Frontend Systems
+- Custom School & Educational Platforms
+- Premium Responsive Websites & Web Apps
+- Modular Frontend UI Frameworks
 
 ### 02 / INTELLIGENT MACHINES
 
@@ -130,7 +130,7 @@ Build today's capabilities with tomorrow's possibilities in mind.
 
 `01` — Frontend Engineering & Responsive Systems
 
-`02` — Real-World Website Development
+`02` — Real-World Website Development & Client Delivery
 
 `03` — Software Engineering Fundamentals
 
@@ -155,10 +155,12 @@ It is to develop the capability to help build it.**
 
 <div align="center">
 
-# Aavesh Singa
+# AAVESH SINGA
 
 ### ENGINEERING WHAT COMES NEXT.
 
 *Built on curiosity. Driven by engineering. Focused on possibility.*
+
+**Direct Email:** aaveshlabs@gmail.com · **LinkedIn:** linkedin.com/in/aaveshsinga
 
 </div>
